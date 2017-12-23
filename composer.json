@@ -1,0 +1,13 @@
+{
+    "name": "wmk/test",
+    "description": "for-test",
+    "type": "project",
+    "authors": [
+        {
+            "name": "wumengke",
+            "email": "1096733382@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
