@@ -1,7 +1,7 @@
 {
     "name": "wmk/test",
     "description": "for-test",
-    "type": "project",
+    "type": "library",
     "authors": [
         {
             "name": "wumengke",
