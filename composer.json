@@ -2,6 +2,7 @@
     "name": "wmk/test",
     "description": "for-test",
     "type": "library",
+    "version":"1.0.0",
     "authors": [
         {
             "name": "wumengke",
@@ -9,5 +10,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+    }
 }
