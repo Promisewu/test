@@ -9,7 +9,7 @@
             "email": "1096733382@qq.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
     }
 }
